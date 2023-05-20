@@ -11,14 +11,14 @@ html {
 }
 
 h1{
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #e2dbdb;
 }
 hr{
-  margin: 100px auto;
+  margin: 90px auto;
   color: #F05F44;
   border: 1px solid #F05F44;
-  max-width: 65px;
+  max-width: 60px;
   opacity: 1;
 }
 .buffer{
